@@ -1,0 +1,23 @@
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 1000px;
+    
+    margin-top: 40px;
+    margin-left: 250px;
+
+    
+
+}
+.Avengers{
+    width: 200px;
+    height: 200px;
+}
+.maaveeran{
+    width: 200px;
+    height: 200px;
+}
+.johnwick{
+    width: 200px;
+    height: 200px;
+}
